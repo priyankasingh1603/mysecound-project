@@ -1,0 +1,305 @@
+Welcome to Net Viewer. Net Viewer is a Bookmark, Password,
+and EMail Organizer. Database Tables are used allowing
+for large amounts of data with rapid access. Web Page
+addresses are easily saved in Net Viewer's Database by
+dragging the address from any browser's address bar to
+the Web Page table. You can also drag ans drop form the
+browser's favorites or bookmarks. You can also use Cut and
+Paste.All your passwords for different web sites are
+organized by Web Site using Net Viewer. Just drag and drop
+the web page address from any browser's address bar to the
+table on the Password Tab. You can create lists of Web Pages
+to be loaded at once or by schedule. This also allows another
+way to organize Web Pages other than by group, priority and
+Search Words. You can set up email accounts and save email
+with attachments to the email database. When installing Net
+Viewer to Windows, if user controls are active, be sure to
+run as an administrator or install Net Viewer to your
+User Library. You have a separate list for search engines,
+or top favorites on the Internet Tab. You can assign icons
+and enter descriptions. There is also a List tab that allows
+you to create lists of Web Sites or Web Pages, and set to
+run at a chosen time. Folders with Urls and Url Lists can be
+easily Transfered to and from Net Viewer and Net Viewer Lite
+running on Windows, OSX, iOS, and Android.
+
+The Web Page Database allows you to save all your favorites
+or bookmarks independent of web browser. Previous versions
+of Net Viewer interacted with Internet Explorer. Now,
+Net Viewer launches Web Pages using your default browser.
+Bookmark collection has been simplified for other browsers.
+To collect bookmarks or favorites, run Net Viewer along
+with your browser. Drag the web page address or URL from
+the address field at the top of the browser to Net Viewers
+Table Grid. You can also drag Urls from the favorite or
+bookmark managers to Net Viewer adding to the database. The
+Internet Tab is a starting place for adding URLs. You can
+Drag and Drop Favorites or URLs onto the list. You can
+use this table for Search Engines or most visited Web Pages.
+You can add these web pages to the URL Database Table by
+clicking the Down Arrow button on the left of the window.
+You can click the right mouse button after selecting an
+item on the list to change the Icon or Edit the description.
+
+The First Tab displays your Internet Explorer Favorites on the
+left, and general setting maintenance on the right. You can Export
+Favorites to the Database Bookmarks, and import selected Bookmarks
+back to Windows Internet Explorer Favorites. Select whether you
+want to create Folders for Database Bookmarks, Passwords, or EMail.
+You can create and delete Groups or Categories for organization, and
+maintain a list of Search Engines. Click the Add (+) button on
+the Toolbar to create a Folder, or New Group. Drag and Drop the
+Search Engine URL from your Browser Address Field to the Search List
+to Add a new search Url to the Database. With the addition of
+Folders and Folders within Folders, Bookmarks, Passwords, and
+Saved EMail, can all placed within a Folder. Folders can be
+Bookmarks or EMail. Folders marked for Bookmarks are also visible
+for Passwords. You can also attach your own Icon to the Folder.
+Groups or Categories for web sites. Click the Add button on the
+left (plus sign) to create a new group. Enter the group
+name and description and click the Save button. Groups are
+used by Bookmarks, Web Sites with Passwords, and lists. Priorities
+can also be assigned to Web Pages and Lists of Web Pages. Urls
+can be added to the Bookmark Table by dragging the link from the
+webbrowser Address bar at the top of the Browser window, or from
+the browser favorites or bookmarks. You can also, click the Add
+button (plus sign) near the lower left of Net Viewer, and
+cut and paste the URL in the URL field. Be sure to click
+the Save button (blue diskette icon). You can also delete
+web pages from the bookmarks. The Web Page source can be
+extracted and placed in the memo field. Search words are also
+available for a bookmark record. Right clicking the mouse
+button will display a menu with options to sort the bookmarks
+by name, group, priority, etc. Folders for Urls and EMail
+are selected from the list of Folders. Click Save button to Save.
+
+The Password Tab is similar to the Bookmarks, except you can
+add password and User ID for Web Sites that require passwords.
+To view the password entered, double click on the password
+field. User IDs and passwords can be cut and paste into the
+web page. Web pages with passwords are collected as Bookmarks.
+Drag and Drop the Web Page address from the address bar or
+bookmark manager, to the password table at the top of the
+window. You can also click the Add button to enter the information.
+A Company field is also available on the password tab. You
+can sort the web Page Password Table by right clicking the
+mouse, displaying a menu with sort options. Clicking the
+HTML button (last button) will display source code for the
+web page in the memo box.
+
+The List Tab provides another way of organizing Web Pages. You
+must create a list before adding Web Pages. All web pages or
+web sites on the list can be loaded at one time or scheduled
+to run at a given time while Net Viewer is active. Click the Add
+button (plus sign, lower left) to create a new List. Enter
+the List Name and description. You can also select a group and
+priority for the list. The list can be assigned an icon that is
+displayed in the left corner. Comments about the list can be
+entered in the Comments box. Click the Save button (diskette) to
+finalize entry. The Delete button (trash can) will delete the
+list. If you be a message about not being in edit mode, click
+the edit button (table) before saving the list. Click the run
+button, to load all web pages on the list. If you have lists
+scheduled to run, loading lists automatically can be shut off
+in the Options window without changing the schedule settings.
+Removing the time to run the list will also prevent the list
+from loading. Drag Web Page Addresses from your browser's address
+bar at the top of the window, or from Bookmarks and Favorites to
+the table at the bottom of the List Tab. These can also be
+deleted using the bottom Delete button.
+
+You can Send and Receive EMail using the EMail Tab. You must first
+setup your email accounts in the Setup Window. Click the Setup
+button to display a window allowing entry of email account
+information. EMail Account Setup is divided between POP3 Server
+for EMail Received, and SMTP Server to Send EMail. Enter the
+EMail Address and click the EMail button to copy the EMail
+Address to the appropriate fields. Give the EMail Account
+a name you can sue to retrieve account information. Enter the
+POP3 Server address. For example, if your internet service
+provider is AT&T, the POP3 Server address is pop.att.yahoo.com.
+The SMTP Server address for AT&T DSL is smtp.att.yahoo.com.
+Be sure to click the Save button when finished. To add more
+EMail Accounts or EMail addresses, click the Add button. To
+Delete an EMail Account, use Next or Prior button to locate
+the EMail Account Record, then click the Delete button.
+
+The From and To EMail addresses can be setup in the Options
+Tab. Click on the Receive button to Receive EMail for
+the accounts setup. Click the New button to create a New EMail.
+Click the Send button to Send the EMail. You also have Reply
+and Forward options for Received EMail. You can send and
+receive attachments for an email. Click on the Add or Delete
+button near the Attachment List to Add or Delete Attachments
+for an email to be sent. You can Save an attachment to
+a folder by clicking the Save button for an attachment
+sent to you. Click on the EMail in the Table to display. Click
+the Save button to save email and saved attachments into
+Net Viewer's EMail Database.
+
+The Saved EMail Table Tab allows you to saved many emails
+over the years, while easily sorting and selecting specific
+emails to view. Clicking on an email in the list will display
+detail of that email. If attachments were saved on the email
+tab, their locations will be saved in the database with the
+email. The attachments are displayed for each email in the
+table below the message. Clicking on the attachment record
+will display the attachment if possible. Right Click the
+mouse on the EMail TreeView and you have several options.
+You can sort the email by From email address, To Email
+address, sent or received, message date, etc. You can select
+the filter option to select emails between a date range, or
+between a letter range on the from email address. Click on
+the Set EMail with unique Icon to select an icon, bitmap, or
+JPG to display with the message. You can also delete the
+EMail from the database by selecting this menu option.
+
+You can print Bookmarks, Password Bookmarks, Lists, and saved
+EMail using Net Viewer. Click on the Reports button on
+the toolbar to display a window allowing you to make Report
+Selections. You can Print a Report of Bookmarks, Password
+Web Sites, Lists or EMail. You can print these items by
+date range and Alphabetical range by URL Name. Click OK
+to Print the Report or Cancel to Close the Report Window.
+
+Net Viewer has several options that can be set for different
+Users. You can select a general style for windows on the
+first Tab, enter startup information on the second Tab,
+and EMail settings on the third Tab. You can pick between
+15 or more Styles. Click on a Style and click OK or another
+Options Tab. The Options Tab has entry fields for Startup
+List, Web Page URL, and icon selections. You can select
+grid lines and enable scheduled lists to run. It may be
+necessary to disable the scheduled lists from time to time,
+so this option is available. You can enter a from EMail
+Address, but the Configured EMail address will be used most
+of the time. You can enter up to 10 To EMail Addresses that
+can be set to automatically fill the To Address Fields for
+sending EMail.
+
+Since so many EMails can acculumate in the Saved EMail Table,
+You will need to be able to select out a range of emails
+for viewing and printing. Right clicking the mouse button
+after selecting an EMail on the Saved EMail List, will
+dispaly a menu with the option to restrict the emails to the
+range selected. You can select by a Date Range, From email
+address alphabetical range, and select by emails received or
+sent.
+
+It is easy to setup your email using Net Viewer. Click
+the Setup button on the email Tab. A window will appear,
+allowing you to create an EMail account. You can have any
+number of EMail Accoounts, and send and receive email
+separately using different accounts. First, enter your
+email address for the email account you are going to use.
+This service works for email that is not webmail. If you
+have a separate program for email rather than your
+web browser to receive your email, Net Viewer will be
+able to retrieve your email. You must provide your
+email address, User ID, password, pop and smtp server
+names. The POP and SMTP Server names are provided by
+your internet service. For example, AT&T is
+pop.att.yahoo.com and smtp.att.yahoo.com. You can click
+add to add another EMail Address. Be sure to click
+the Save button to finalize the information entered.
+Click the OK button to select an email address to
+send and receive mail.
+
+Net Viewer requires a User Log on, since EMail and
+Passwords are stored. The User Samples is standard
+with Net Viewer requiring no password to sign on.
+Just click the Ok button, when Samples is used to
+sign on. It is easy to create new users by clicking
+the New User button.
+
+Creating a New User is easy using Net Viewer. The
+New User requires a User ID, but password is optional.
+If you use a password you must reenter the password
+for confirmation. You must also check the Use Password
+checkbox. Click the OK button to save the information.
+Click Cancel to return to the current User.
+
+Use the User Update to change the Password for a User ID.
+You must first sign onto the Users Window, click on
+a User, then click on the change button. A small
+window will appear, where you can change the password.
+You must confirm by retyping the password, and click
+the use password Checkbox to activate. Click the
+OK button to Finalize.
+
+You can keep from and to email contacts in this
+brief email address book. Enter a first and/or
+Last Name in the first space at the top of the
+window, and the email address on the right. Click
+the Save button at the bottom of the window.
+You can also delete an address by selecting a
+contact address and clicking the Delete button.
+Clicking the Select button will add the contact
+email to the To Address on the EMail Tab.
+
+Net Viewer was first written in June, July, and August
+of 1999. The primary purpose of the program is to help
+you organize your web sites, save passwords for web sites,
+and E-Mail web site links to friends over the internet.
+Version 1.5 added cosmetic changes in September of 1999.
+Version 1.7 was completed in December of 1999 which included
+enhancements to the URL Browser, an HTML browser, and an
+HTTP and FTP extractor from the current Web Site. Version
+2.0 was completed in December of 1999. Appearance was somewhat
+improved with addition of small features such as multimedia
+listing on the Link to other Web Site window. A function
+to copy web sites to other User profiles was added. Version
+2.5 was written in March and April of 2000. Multi document
+interface for the data browsers was added with cosmetic
+enhancements. Version 2.6 added the Web Sites by Icon assignment
+in August 2000. Net Viewer was upgraded to version 3.0
+in December of 2000, and January of 2001. New Dockable Toolbars
+were added, improved Import of Favorites with Tree Diagram
+View of Window's and Internet Explorer Favorites. A Hierarchal
+Tree Diagram Viewer window for the database web site locations,
+and support for file attachments when sending and receiving
+E-Mail using Zip File Format was also added. Version 3.1 added
+some small functions as Add current E-Mail Address to the User
+Address Book. Allow the launch of a new window from
+the Browser Link when using the Internal Browser, and
+a button to toggle between Net Viewer Windows was also
+added. Net Viewer version 4.0 was release in late summer
+of 2003. The ability to surf up to 25 Internet Explorer
+Windows at once, New easier to use Interface, and share
+and exchange Database Information with other Users on
+the local area network. Version 4.1 expanded to 50
+Internet Explorer Windows. Net Viewer was rewritten in Delphi
+2009 from September 2009 until December 2009. Version 5
+was released in January of 2010. A new interface was created
+and any number of Internet Explorer Windows can be used
+to collect URLs. In November of 2010, version 5.1 was released.
+URL Organizational enhancements, and interface improvements
+were made. Version 6 was completed in Fall of 2011. Storage
+of HTML source in Memo Field per URL and Password URL was
+added. Net Viewer Inquiry is also a new addition, plus interface
+improvements are included in version 6. Version 7 replaced
+the MS MAPI Active X with Indy 10 POP3 and SMTP Server
+components. This allows email access without loading
+any external Email programs. After other interface
+improvements, version 7 was released in June of 2012. Net Viewer
+8 was rewritten in Delphi FireMonkey 2 in January of 2013. All
+components native to FireMonkey were used. Net Viewer 9 was
+released in January of 2015. Folders were added for Urls, Passwords,
+and Saved EMail. You can now import your Windows Url Favorites into
+Net Viewer's Url Database. Net Viewer's Urls can be exported to
+Windows. Net Viewer's interface has been improved by the use
+of Tiles instead of Grids. It is now possible to share Folders
+with Urls, and Url Lists with Net Viewer Lite (All Versions) and
+Net Viewer running on the Local Area Network. Net Viewer 9
+was written and compiled using Delphi XE 7 FireMonkey. Net Viewer 9.2
+was released in December of 2017 with Interface Improvements. (DX10.2.1).
+
+
+
+
+
+
+
+
+
+
